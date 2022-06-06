@@ -26,7 +26,7 @@
 }
 
 .contact__option-icon {
-  font-size: 1.5 rem;
+  font-size: 1.5rem;
   margin-bottom: 0.5rem;
 }
 
@@ -35,17 +35,17 @@
   display: inline-block;
   font-size: 0.8rem;
 }
-
 .contact__option h5 {
   display: flex;
   justify-content: center;
 }
 
+/* ==================== FORM ================= */
 
 form {
   display: flex;
   flex-direction: column;
-  gap: 1.2rem;
+  gap: 1.5rem;
 }
 
 input, textarea {
@@ -56,10 +56,13 @@ input, textarea {
   border: 2px solid var(--color-primary-variant);
   resize: none;
   color: var(--color-white);
+}
+
+input {
   font-size: 0.95rem;
 }
 
-
+/* =============== MEDIA QUERIES (MEDIUM DEVICES)====================== */
 @media screen and (max-width: 1024px) {
   .container.contact__container {
     grid-template-columns: 1fr;
@@ -67,11 +70,9 @@ input, textarea {
   }
 }
 
+/* =============== MEDIA QUERIES (SMALL DEVICES)====================== */
 @media screen and (max-width: 600px) {
   .container.contact__container {
-    grid-template-columns: 1fr;
-    display: flex;
-    flex-direction: column;
-    /* width: var(--container-width-sm); */
+    width: var(--container-width-sm);
   }
-} 
+}

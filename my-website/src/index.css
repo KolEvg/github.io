@@ -22,7 +22,7 @@
   
   --container-width-lg: 75%;
   --container-width-md: 86%;
-  --container-width-ms: 90%;
+  --container-width-sm: 90%; 
 }
 
 html {
@@ -116,31 +116,23 @@ img {
   object-fit: cover;
 }
 
-/* =============== MEDIA QUERIES (MEDIUM DEVICES)====================== */
 @media screen and (max-width: 1024px) {
-  .experience__container {
-    grid-template-columns: 1fr;
+  .container {
+    width: var(--container-width-md);
   }
 
-  .experience__container > div {
-    width: 80%;
-    padding: 2rem;
-    margin: 0 auto;
-  }
-
-  .experience__content {
-    padding: 1rem;
+  section {
+    margin-top: 6rem;
   }
 }
 
 /* =============== MEDIA QUERIES (SMALL DEVICES)====================== */
 @media screen and (max-width: 600px) {
-  .experience__container {
-    gap: 1rem;
+  .container {
+    width: var(--container-width-sm);
   }
 
-  .experience__container > div {
-    width: 100%;
-    padding: 2rem 1rem;
+  section > h2 {
+    margin-bottom: 2rem;
   }
 }

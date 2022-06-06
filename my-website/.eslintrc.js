@@ -39,7 +39,10 @@ module.exports = {
     'react/jsx-no-useless-fragment': 0,
     'anchor-has-content': 0,
     'control-has-associated-label': 0,
-    'anchor-is-valid': 0,
+    // 'anchor-is-valid': 0,
     'react/no-array-index-key': 0,
+    'jsx-a11y/control-has-associated-label': 0,
+    'jsx-a11y/anchor-is-valid': 0,
+    'import/no-duplicates': 0,
   },
 };
