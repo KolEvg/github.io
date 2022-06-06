@@ -40,5 +40,6 @@ module.exports = {
     'anchor-has-content': 0,
     'control-has-associated-label': 0,
     'anchor-is-valid': 0,
+    'react/no-array-index-key': 0,
   },
 };
