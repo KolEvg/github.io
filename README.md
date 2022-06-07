@@ -1,3 +1,3 @@
 # My Portfolio Website
 
-[Fortnite-Shop](https://kolevg.github.io/github.io).
+[My Portfolio Website](https://kolevg.github.io/github.io).
