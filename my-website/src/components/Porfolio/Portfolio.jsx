@@ -1,8 +1,8 @@
 import React from 'react';
 import './portfolio.css';
-import IMG1 from '../../assets/portfolio1.jpg';
-import IMG2 from '../../assets/portfolio2.jpg';
-import IMG3 from '../../assets/portfolio3.jpg';
+import IMG1 from '../../assets/portfolio1.png';
+import IMG2 from '../../assets/portfolio2.png';
+import IMG3 from '../../assets/portfolio3.png';
 import IMG4 from '../../assets/portfolio4.jpg';
 import IMG5 from '../../assets/portfolio5.png';
 import IMG6 from '../../assets/portfolio6.jpg';
@@ -18,10 +18,10 @@ function Portfolio() {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>MediaHub</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className="btn" target="_blank" rel="noreferrer">Github</a>
-            <a href="https://kolevg.github.io/Fortnite-Shop/" className="btn btn-primary" target="_blank" rel="noreferrer">
+            <a href="https://github.com/KolEvg" className="btn" target="_blank" rel="noreferrer">Github</a>
+            <a href="" className="btn btn-primary" target="_blank" rel="noreferrer">
               Live Demo
             </a>
           </div>
@@ -31,10 +31,10 @@ function Portfolio() {
           <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>getPet</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className="btn" target="_blank" rel="noreferrer">Github</a>
-            <a href="https://kolevg.github.io/Fortnite-Shop/" className="btn btn-primary" target="_blank" rel="noreferrer">
+            <a href="https://github.com/KolEvg" className="btn" target="_blank" rel="noreferrer">Github</a>
+            <a href="https://get-pet-app.herokuapp.com/" className="btn btn-primary" target="_blank" rel="noreferrer">
               Live Demo
             </a>
           </div>
@@ -44,9 +44,9 @@ function Portfolio() {
           <div className="portfolio__item-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Fortnite-Shop</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className="btn" target="_blank" rel="noreferrer">Github</a>
+            <a href="https://github.com/KolEvg/Fortnite-Shop" className="btn" target="_blank" rel="noreferrer">Github</a>
             <a href="https://kolevg.github.io/Fortnite-Shop/" className="btn btn-primary" target="_blank" rel="noreferrer">
               Live Demo
             </a>
@@ -57,7 +57,7 @@ function Portfolio() {
           <div className="portfolio__item-image">
             <img src={IMG4} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>New project</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className="btn" target="_blank" rel="noreferrer">Github</a>
             <a href="https://kolevg.github.io/Fortnite-Shop/" className="btn btn-primary" target="_blank" rel="noreferrer">
@@ -70,7 +70,7 @@ function Portfolio() {
           <div className="portfolio__item-image">
             <img src={IMG5} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>New project</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className="btn" target="_blank" rel="noreferrer">Github</a>
             <a href="https://kolevg.github.io/Fortnite-Shop/" className="btn btn-primary" target="_blank" rel="noreferrer">
@@ -83,7 +83,7 @@ function Portfolio() {
           <div className="portfolio__item-image">
             <img src={IMG6} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>New project</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className="btn" target="_blank" rel="noreferrer">Github</a>
             <a href="https://kolevg.github.io/Fortnite-Shop/" className="btn btn-primary" target="_blank" rel="noreferrer">
