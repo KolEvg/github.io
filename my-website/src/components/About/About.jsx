@@ -40,9 +40,10 @@ function About() {
           </div>
 
           <p>
-            text text text text text text text text text text text text text text text
-            text text text text text text text text text text text text text text text
-            text text text text text text text text text text text text text text text
+            Full Stack developer, I am able to create a web application from scratch both client-side and server-side.
+            - I'm independent, I can work under minimal supervision.
+            - I have good communication skills, I communicate directly with the customer without any problems.
+            - I'm constantly studying new technologies, following the updates of those that I use on projects.
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>

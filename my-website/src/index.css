@@ -39,13 +39,12 @@ body {
   background: linear-gradient(60deg,
     rgb(54, 4, 46) 0%,
     #1f1f38 30%,
-    rgb(43, 3, 135));
+    rgb(24, 1, 77));
     /* background: var(--color-bg);  */
   color: var(--color-white);
   line-height:  1.7;
   /* background-image: url(../src/assets/bg-texture.png); */
 }
-
 
 
 .container {

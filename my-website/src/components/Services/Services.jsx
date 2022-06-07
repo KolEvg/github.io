@@ -16,27 +16,9 @@ function Services() {
 
           <ul className="service__list">
             <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
+              <div>
+                <BiCheck className="service_list-icon" />
+              </div>
               <p>Lorem ipsum dolor sit amet consectetur elit.</p>
             </li>
           </ul>
@@ -46,64 +28,35 @@ function Services() {
           <div className="service__head">
             <h3>Web Development</h3>
           </div>
-
           <ul className="service__list">
             <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <div>
+                <BiCheck className="service_list-icon" />
+              </div>
+              <p>
+                {' '}
+                You want to launch your website, you need a new design for your future site?
+                Contact me and we will discuss your needs and desires.
+              </p>
             </li>
           </ul>
         </article>
         {/* End web */}
         <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Server Creation</h3>
           </div>
 
           <ul className="service__list">
             <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <div>
+                <BiCheck className="service_list-icon" />
+              </div>
+              <p>
+                You want to launch your website, you need create server with database.
+                Contact me and we will discuss your needs and desires.
+                {' '}
+              </p>
             </li>
           </ul>
         </article>

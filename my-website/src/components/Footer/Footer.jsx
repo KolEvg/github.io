@@ -35,7 +35,7 @@ function Footer() {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; KolEvg Tutorials. All rights reserved.</small>
+        <small>&copy; Created By Evgeniy Koluschinskiy</small>
       </div>
     </footer>
   );
