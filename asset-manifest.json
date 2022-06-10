@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/github.io/static/css/main.2085d41b.css",
-    "main.js": "/github.io/static/js/main.48f4beef.js",
+    "main.css": "/github.io/static/css/main.93adfe07.css",
+    "main.js": "/github.io/static/js/main.09645980.js",
     "static/media/portfolio2.png": "/github.io/static/media/portfolio2.434c0fb01ebb47f4458f.png",
     "static/media/CV_Koluschinskiy_Evgeniy.pdf": "/github.io/static/media/CV_Koluschinskiy_Evgeniy.017c389ab3719e4ced86.pdf",
     "static/media/me3.jpeg": "/github.io/static/media/me3.748e6527ee15047b20de.jpeg",
@@ -12,11 +12,11 @@
     "static/media/portfolio4.jpg": "/github.io/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "static/media/me1.jpeg": "/github.io/static/media/me1.036252b4d34b95472e93.jpeg",
     "index.html": "/github.io/index.html",
-    "main.2085d41b.css.map": "/github.io/static/css/main.2085d41b.css.map",
-    "main.48f4beef.js.map": "/github.io/static/js/main.48f4beef.js.map"
+    "main.93adfe07.css.map": "/github.io/static/css/main.93adfe07.css.map",
+    "main.09645980.js.map": "/github.io/static/js/main.09645980.js.map"
   },
   "entrypoints": [
-    "static/css/main.2085d41b.css",
-    "static/js/main.48f4beef.js"
+    "static/css/main.93adfe07.css",
+    "static/js/main.09645980.js"
   ]
 }
