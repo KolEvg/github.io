@@ -52,10 +52,16 @@ input, textarea {
   padding: 1.5rem;
   border-radius: 0.5rem;
   background: transparent;
-  border: 2px solid var(--color-primary-variant);
+  border: 3px solid var(--color-primary-variant);
   resize: none;
-  color: var(--color-white);
+  color: var(--color-primary);
 }
+/* input::-webkit-input-placeholder { 
+  color: rgb(255, 255, 255); 
+} */
+/* textarea::-webkit-input-placeholder { 
+  color: rgb(255, 255, 255); 
+} */
 
 input {
   font-size: 0.95rem;

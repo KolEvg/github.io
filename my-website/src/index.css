@@ -9,7 +9,23 @@
   list-style: none;
   text-decoration: none;
 }
-
+/* --color-bg: #a9a9df;
+  --color-bg-variant: #913e7886;
+  --color-primary: #461eb4;
+  --color-primary-variant: rgba(77, 181, 255, 0.4);
+  --color-white: #fff;
+  --color-light: rgba(255, 255, 255, 0.6);
+  background: linear-gradient(20deg,
+  rgb(202, 95, 184) 0%,
+  #6565af 30%,
+  rgb(147, 139, 168)); 
+  background: linear-gradient(60deg,
+    rgb(54, 4, 46) 0%,
+    #1f1f38 30%,
+    rgb(24, 1, 77));
+    
+    */
+  
 :root {
   /* --color-bg: #1f1f38; */
   --color-bg: #1f1f38;
@@ -36,10 +52,10 @@ html {
 
 body {
   font-family: 'Poppins', sans-serif;
-  background: linear-gradient(60deg,
+  background: linear-gradient(70deg,
     rgb(54, 4, 46) 0%,
-    #1f1f38 30%,
-    rgb(24, 1, 77));
+    #26265c 30%,
+    rgb(147, 139, 168));
     /* background: var(--color-bg);  */
   color: var(--color-white);
   line-height:  1.7;

@@ -44,7 +44,7 @@ function Portfolio() {
           <div className="portfolio__item-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>Fortnite-Shop</h3>
+          <h3>Fortnite Shop</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/KolEvg/Fortnite-Shop" className="btn" target="_blank" rel="noreferrer">Github</a>
             <a href="https://kolevg.github.io/Fortnite-Shop/" className="btn btn-primary" target="_blank" rel="noreferrer">

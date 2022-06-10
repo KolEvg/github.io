@@ -28,7 +28,7 @@ function Footer() {
           <FiInstagram />
 
         </a>
-        <a href="https://twitter.com/skippy4347" target="_blank" rel="noreferrer">
+        <a href="https://twitter.com" target="_blank" rel="noreferrer">
           <IoLogoTwitter />
 
         </a>
