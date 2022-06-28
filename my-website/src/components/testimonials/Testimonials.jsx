@@ -49,21 +49,19 @@ function Testimonials() {
         slidesPerView={1}
         pagination={{ clickable: true }}
       >
-        {
-      data.map(({
-        el, avatar, name, review,
-      }) => (
-        <SwiperSlide key={el} className="testimonial">
-          <div className="client__avatar">
-            <img src={avatar} alt="Avatar One" />
-          </div>
-          <h5 className="clients__name">{name}</h5>
-          <small className="client__review">
-            {review}
-          </small>
-        </SwiperSlide>
-      ))
-    }
+        {data.map(({
+          el, avatar, name, review,
+        }) => (
+          <SwiperSlide key={el} className="testimonial">
+            <div className="client__avatar">
+              <img src={avatar} alt="Avatar One" />
+            </div>
+            <h5 className="clients__name">{name}</h5>
+            <small className="client__review">
+              {review}
+            </small>
+          </SwiperSlide>
+        ))}
       </Swiper>
     </section>
   );
