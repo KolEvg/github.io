@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/github.io/static/css/main.93adfe07.css",
-    "main.js": "/github.io/static/js/main.09645980.js",
+    "main.js": "/github.io/static/js/main.5c7a33a8.js",
     "static/media/portfolio2.png": "/github.io/static/media/portfolio2.434c0fb01ebb47f4458f.png",
-    "static/media/CV_Koluschinskiy_Evgeniy.pdf": "/github.io/static/media/CV_Koluschinskiy_Evgeniy.017c389ab3719e4ced86.pdf",
     "static/media/me3.jpeg": "/github.io/static/media/me3.748e6527ee15047b20de.jpeg",
     "static/media/portfolio5.png": "/github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/portfolio1.png": "/github.io/static/media/portfolio1.41557d56ea8968efe50c.png",
     "static/media/portfolio3.png": "/github.io/static/media/portfolio3.810732e58c6f0a76762b.png",
+    "static/media/CV_Koluschinskiy_Evgeniy.pdf": "/github.io/static/media/CV_Koluschinskiy_Evgeniy.ac12331dc2fd2664e8c0.pdf",
     "static/media/portfolio6.jpg": "/github.io/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/portfolio4.jpg": "/github.io/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "static/media/me1.jpeg": "/github.io/static/media/me1.036252b4d34b95472e93.jpeg",
     "index.html": "/github.io/index.html",
     "main.93adfe07.css.map": "/github.io/static/css/main.93adfe07.css.map",
-    "main.09645980.js.map": "/github.io/static/js/main.09645980.js.map"
+    "main.5c7a33a8.js.map": "/github.io/static/js/main.5c7a33a8.js.map"
   },
   "entrypoints": [
     "static/css/main.93adfe07.css",
-    "static/js/main.09645980.js"
+    "static/js/main.5c7a33a8.js"
   ]
 }
